@@ -1,0 +1,42 @@
+.header{
+    width: 1920px;
+    height: 80px;
+    top: 44px;
+    
+}
+
+.container{
+    width: 1440px;
+    
+}
+
+body{
+    background-color: #0F0F0F;
+}
+
+nav{
+    display: flex;
+}
+
+a{
+    color: #fff;
+    text-decoration: none;
+}
+
+
+.card{
+    width: 320px;
+    height: 320px;
+    border: 5px solid #fff;
+    justify-content: center;
+    align-items: center;
+    margin-left: 700px;
+}
+
+.background{
+    width: 1440px;
+    height: 810px;
+    background: url(./image/first-screen.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
